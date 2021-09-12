@@ -30,3 +30,6 @@ html, body {
 .text-primary {
     color: var(--color-primary) !important;
 }
+.table-hover tbody tr:hover td {
+    background: #87CEEB;
+}
