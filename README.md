@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Sistema consiste em um CRUD de relatórios. Aplicação fullstakn utilizando Srping e React com interação web e mobile.
+Sistema consiste em um CRUD de relatórios. Aplicação fullstack utilizando Srping e React com interação web e mobile.
 
 ## Layout Web
 ![Alt text](https://github.com/andresilvape/eventos/blob/master/docs/sds3.JPG?raw=true "Title")
