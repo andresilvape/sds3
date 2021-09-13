@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Sistema consiste em um CRUD de relatórios. Aplicação fullstack utilizando Srping e React com interação web e mobile.
+Sistema consiste em um CRUD de relatórios. Aplicação fullstack, desenvolvida com base na semana do DevSuperior. Utiliza: Srping Boot, React, TypeScript com interação web e mobile.
 
 ## Layout Web / Mobile
 ![Alt text](https://github.com/andresilvape/assets/blob/main/sds3.PNG?raw=true "Title")
@@ -24,7 +24,7 @@ Sistema consiste em um CRUD de relatórios. Aplicação fullstack utilizando Srp
 
 ## Banco de Dados
 - H2
-- PostGre
+- PostgreSQL
 
 ## Implementação Local
 - Back end: localhost
