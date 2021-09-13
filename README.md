@@ -6,8 +6,8 @@
 
 Sistema consiste em um CRUD de relatórios. Aplicação fullstack utilizando Srping e React com interação web e mobile.
 
-## Layout Web
-![Alt text](https://github.com/andresilvape/eventos/blob/master/docs/sds3.JPG?raw=true "Title")
+## Layout Web / Mobile
+![Alt text](https://github.com/andresilvape/assets/blob/main/sds3.PNG?raw=true "Title")
 
 # Tecnologias utilizadas
 ## Back end
