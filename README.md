@@ -1,4 +1,4 @@
-# Sistema Relatorios
+# Sistema de Relatorios
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/andresilvape/eventos/blob/add-license-1/LICENSE)
 
